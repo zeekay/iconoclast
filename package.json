@@ -1,0 +1,19 @@
+{
+  "name": "iconoclast",
+  "version": "0.0.1",
+  "description": "Iconoclastic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeekay/iconoclast.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeekay/iconoclast/issues"
+  },
+  "homepage": "https://github.com/zeekay/iconoclast#readme"
+}
