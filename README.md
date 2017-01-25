@@ -1,5 +1,7 @@
 # iconoclast [![NPM version][npm-img]][npm-url] [![Build Status][travis-img]][travis-url] [![Coverage Status][coveralls-img]][coveralls-url] [![Dependency Status][dependency-img]][dependency-url] [![Gitter chat][gitter-img]][gitter-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeekay/iconoclast.svg)](https://greenkeeper.io/)
+
 [travis-img]:     https://img.shields.io/travis/zeekay/iconoclast.svg
 [travis-url]:     https://travis-ci.org/zeekay/iconoclast
 [coveralls-img]:  https://coveralls.io/repos/zeekay/iconoclast/badge.svg?branch=master&service=github
